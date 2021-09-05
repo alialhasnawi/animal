@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<!--thanks to rogue-ranger https://www.deviantart.com/rogue-ranger on deviantart for the dialogue template <3-->
+
+<html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js"></script>
+    <title>aminal talking</title>
+    <link rel="icon" type="image/svg" href="../res/animal.svg">
+  </head>
+
+  <body>
+
+    <img class="background-img" src="res/wall.webp" onerror="this.onerror=null;this.src='res/wall.jpg';" alt="leaf background">
+
+    <div class="container">
+
+      <div class="textbox-container">
+        <textarea placeholder="i wanna say..." id="inText"></textarea>
+      </div>
+      <div class="slider-container">
+        <div class="text-container">Pitch</div>
+        <input type="range" min="0" max="2" value="1" step="0.05" class="slider" id="rateRange">
+      </div>
+      <!--<div class="slider-container">
+        <input type="range" min="0" max="2" value="1" step="0.05" class="slider" id="speedRange">
+      </div>-->
+      <div class="button-container">
+        <button onclick="playClip()">Say it!</button>
+      </div>
+
+    </div>
+
+    <div class="dialogue">
+      <div id="rat-bg">
+        <img id="rat-img" src="res/rat_2.webp" onerror="this.onerror=null;this.src='res/rat_2.png';" alt="ratty">
+      </div>
+      <div class="dialogue-container">
+        <img id="dialogue-box" src="res/dialogue.webp" onerror="this.onerror=null;this.src='res/dialogue.png';" alt="Animal Crossing New Leaf dialogue box">
+        <div id="dialogue-text"></div>
+        <input type="text" placeholder="enter name" maxlength="8" id="dialogue-name">
+      </div>
+    </div>
+
+  </body>
+
+
+</html>

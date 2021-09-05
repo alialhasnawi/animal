@@ -1,0 +1,261 @@
+@font-face {
+  font-family: nunito;
+  src: url("res/nunito.ttf");
+}
+
+* {
+  overflow: hidden;
+  font-family: nunito;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0px;
+}
+
+#dialogue-text {
+  height: 75%;
+  width: 75%;
+  position: absolute;
+  display: flex;
+  top: 26%;
+  padding: 0px;
+  background: none;
+  text-align: left;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  font-size: 2.5vw;
+  color: #FFFFFF;
+}
+
+#dialogue-name {
+  height: 18%;
+  width: 25%;
+  position: absolute;
+  left: 7.5%;
+  top: 3.5%;
+  display: flex;
+  padding: 0%;
+  background: none;
+  outline: none;
+  border: none;
+  text-align: center;
+  vertical-align: middle;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  font-size: 2vw;
+  color: #FFFFFF;
+}
+
+#dialogue-name::placeholder {
+  color: #FFFFFF;
+  opacity: 0.8;
+}
+
+#dialogue-box {
+  width: 100%;
+  height: auto;
+  margin: 0px;
+}
+
+#rat-bg {
+  display: none;
+  height: 50vh;
+  background: url("res/rat_1.webp"), url("res/rat_1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#rat-img {
+  display: flex;
+  height: 100%;
+  width: auto;
+  opacity: 0;
+}
+
+.dialogue {
+  height: auto;
+  width: 60%;
+  position: relative;
+  display: flex;
+  margin: 0px;
+  padding: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dialogue-container {
+  width: 100%;
+  height: auto;
+  position: relative;
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.background-img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.1;
+  z-index: -10;
+}
+
+.container {
+  height: 100%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 5%;
+  border-right: 5px solid #d1e3f0;
+  background-color: #EEF3FF;
+}
+
+.textbox-container {
+  height: 60%;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+textarea {
+  height: 100%;
+  width: 90%;
+  resize: none;
+  overflow-y: scroll;
+  padding: 28px 20px 20px 28px;
+  border: none;
+  border-radius: 25px;
+  outline: none;
+  font-size: 2vw;
+}
+
+textarea::placeholder {
+  color: #000000;
+  opacity: 0.3;
+}
+
+.text-container {
+  display: flex;
+  text-align: center;
+  padding: 25px;
+  font-size: 2vw;
+}
+
+.slider-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 3%;
+}
+
+.slider {
+  width: 70%;
+  appearance: none;
+  padding: 3px;
+  height: 18%;
+  background: #FFFFFF;
+  outline: none;
+  border: 3px solid #d1e3f0;
+  border-radius: 15px;
+  opacity: 0.7;
+  padding: 5px;
+}
+
+.slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  background: #33AA99;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.button-container {
+  height: 7%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+}
+
+button {
+  height: 100%;
+  width: 40%;
+  font-size: 2vw;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  background-color: #AAEEDD;
+  color: #003355;
+}
+
+button:active {
+  background-color: #09DDCC;
+  color: #FFFFFF;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 8px 1px rgba(1, 1, 1, 0.04);
+}
+
+@media (orientation: portrait) {
+  body {
+    flex-direction: column;
+  }
+
+  #rat-bg {
+    height: 60%;
+    justify-content: center;
+  }
+
+  #rat-img {
+    display: flex;
+    height: 100%;
+    opacity: 1;
+  }
+
+  .dialogue {
+    height: 30%;
+    width: 100%;
+  }
+
+  .container {
+    height: 50%;
+    width: 100%;
+    border-right: none;
+    border-bottom: 15px solid #d1e3f0;
+  }
+
+  .background-img {
+    top: 50%;
+  }
+
+  .button-container {
+    height: 10%;
+  }
+
+  button, textarea, .text-container, #dialogue-name {
+    font-size: 5vw;
+  }
+}
