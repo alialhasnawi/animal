@@ -1,7 +1,5 @@
 # animal
 
-###### *this project is in the process of being refactored*
-
 ### **[Animalese Generator.](https://alialhasnawi.github.io/animal/)**
 *Text-to-Speech inspired by Animal Crossing*
 - Uses the Web Audio API.
