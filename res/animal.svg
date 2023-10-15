@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-678 -1407 2802 2731" xmlns="http://www.w3.org/2000/svg">
+  <g style="" transform="matrix(0.885073, 0.06189, -0.061832, 0.884229, -442.594238, -314.251312)">
+    <path style="stroke: rgb(152, 222, 201); stroke-width: 250px; stroke-linejoin: round; fill: rgb(152, 222, 201);" d="M 1520.077 1119.28 C 1538.401 1098.383 2034.572 692.179 2095.065 1211.564 L 2131.26 1537.678 L 2604.496 1530.602 L 2605.996 629.289 L 2678.026 -1245.066 L 1991.28 -1234.477 L 2020.253 -561.126 C 2029.691 -228.99 1622.469 -123.404 1189.431 -461.727"/>
+    <polygon style="fill: rgb(230, 246, 241); stroke-linejoin: round; stroke-width: 250px; stroke: rgb(99, 148, 133);" points="2274.681 576.353 2480.148 576.353 2563.473 -1011.008 2191.26 -1002.685"/>
+    <g style="" transform="matrix(0.835709, 0, 0, 0.80046, 405.034912, 279.86145)">
+      <rect x="2246.413" y="1023.494" width="264.554" height="392.469" style="fill: rgb(230, 246, 241); stroke-linejoin: round; stroke-width: 250px; stroke: rgb(99, 148, 133);"/>
+      <rect x="2186.413" y="913.494" width="264.554" height="392.469" style="fill: rgb(230, 246, 241); stroke: rgb(230, 246, 241); stroke-linejoin: round; stroke-width: 250px;"/>
+    </g>
+    <polygon style="fill: rgb(230, 246, 241); stroke: rgb(230, 246, 241); stroke-linejoin: round; stroke-width: 250px;" points="2214.681 466.353 2420.148 466.353 2503.473 -1121.008 2131.26 -1112.685"/>
+  </g>
+  <g transform="matrix(0.990268, -0.139173, 0.139173, 0.990268, -169.949661, -82.239304)">
+    <g transform="matrix(0.828628, 0, 0, 1, -222.641418, -610.278015)" style="">
+      <g>
+        <g>
+          <title>background</title>
+          <g id="g-3" display="none">
+            <rect id="rect-3" width="100%" height="100%" x="0" y="0" fill="url(#gridpattern)" style="stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+          </g>
+        </g>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+        <path style="paint-order: fill; fill: none; stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M 114.861 1623.01 C 432.547 1756.388 837.418 1336.634 837.418 1336.634 C 990.072 1378.107 1472.638 1181.942 1707.526 851.976"/>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(152, 222, 201); stroke-width: 546.858px;"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M -4.397 1429.587 C 407.332 1490.593 740.964 1177.629 740.964 1177.629 C 769.113 1201.293 1136.57 1074.923 1367.85 739.702"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M -90.73 1168.146 C 313.289 1270.744 645.695 1006.004 645.695 1006.004 C 645.695 1006.004 997.209 953.058 1107.504 705.98"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M -81.798 759.633 C 212.161 1068.934 559.294 799.969 559.294 799.969 C 559.294 799.969 851.239 831.72 1028.587 598.338"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M 42.389 476.529 C 237.886 794.215 512.492 582.908 512.492 582.908 C 512.492 582.908 788.818 635.372 977.76 421.725"/>
+        <path style="fill: none; stroke-linecap: round; stroke: rgb(152, 222, 201); stroke-width: 546.858px;" d="M 153.446 280.537 C 227.902 517.554 472.336 419.781 472.336 419.781 C 472.336 419.781 788.818 476.529 1011.42 215.267"/>
+      </g>
+      <g>
+        <path style="paint-order: fill; fill: none; stroke-linecap: round; stroke-width: 546.858px; stroke: rgb(152, 222, 201);" d="M 1059.076 1837.969 L 953.058 1532.106 C 953.058 1532.106 151.379 330.995 614.404 -83.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 546.858px; stroke: rgb(152, 222, 201);" d="M 944.85 1496.949 C 1084.171 1577.844 1589.904 1337.804 1691.386 1167.981 C 1745.257 1094.207 1754.258 980.367 1730.429 865.975 C 1708.267 759.585 1617.642 630.243 1529.058 537.095 C 1275.379 270.345 627.01 -128.128 604.78 -128.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 546.858px; stroke: rgb(152, 222, 201);" d="M 604.78 -128.128 C 404.437 -62.309 88.952 250.743 -69.714 703.105 C -213.099 1111.901 -20.018 1747.273 393.065 1747.273 C 630.703 1747.273 891.651 1549.347 943 1494.343"/>
+      </g>
+    </g>
+    <g transform="matrix(0.828628, 0, 0, 1, -212.640839, -579.563049)" style="">
+      <g>
+        <g>
+          <title>background</title>
+          <g id="g-2" display="none">
+            <rect id="rect-2" width="100%" height="100%" x="0" y="0" fill="url(#gridpattern)" style="stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+          </g>
+        </g>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+        <path style="paint-order: fill; fill: none; stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 114.861 1623.01 C 432.547 1756.388 837.418 1336.634 837.418 1336.634 C 990.072 1378.107 1472.638 1181.942 1707.526 851.976"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 164.057px; stroke: rgb(99, 148, 133);"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M -4.397 1429.587 C 407.332 1490.593 740.964 1177.629 740.964 1177.629 C 769.113 1201.293 1136.57 1074.923 1367.85 739.702"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M -90.73 1168.146 C 313.289 1270.744 645.695 1006.004 645.695 1006.004 C 645.695 1006.004 997.209 953.058 1107.504 705.98"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M -81.798 759.633 C 212.161 1068.934 559.294 799.969 559.294 799.969 C 559.294 799.969 851.239 831.72 1028.587 598.338"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 42.389 476.529 C 237.886 794.215 512.492 582.908 512.492 582.908 C 512.492 582.908 788.818 635.372 977.76 421.725"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 153.446 280.537 C 227.902 517.554 472.336 419.781 472.336 419.781 C 472.336 419.781 788.818 476.529 1011.42 215.267"/>
+      </g>
+      <g>
+        <path style="paint-order: fill; fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 1059.076 1837.969 L 953.058 1532.106 C 953.058 1532.106 151.379 330.995 614.404 -83.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 944.85 1496.949 C 1084.171 1577.844 1589.904 1337.804 1691.386 1167.981 C 1745.257 1094.207 1754.258 980.367 1730.429 865.975 C 1708.267 759.585 1529.058 537.095 1529.058 537.095 C 1529.058 537.095 1357.06 953.058 1059.076 635.372 C 846.783 409.043 1111.901 242 1111.901 242 C 1111.901 242 696.635 64.119 617.372 -86.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 164.057px; stroke: rgb(99, 148, 133);" d="M 617.372 -86.128 C 417.029 -20.309 88.952 250.743 -69.714 703.105 C -213.099 1111.901 -20.018 1747.273 393.065 1747.273 C 630.703 1747.273 891.651 1549.347 943 1494.343"/>
+      </g>
+    </g>
+    <g transform="matrix(0.828628, 0, 0, 1, -242.641418, -672.278015)" style="">
+      <g>
+        <g>
+          <title>background</title>
+          <g id="g-1" display="none">
+            <rect id="rect-1" width="100%" height="100%" x="0" y="0" fill="url(#gridpattern)" style="stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+          </g>
+        </g>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+        <path style="paint-order: fill; fill: none; stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 114.861 1623.01 C 432.547 1756.388 837.418 1336.634 837.418 1336.634 C 990.072 1378.107 1472.638 1181.942 1707.526 851.976"/>
+        <path style="fill: rgb(216, 216, 216); stroke-width: 109.372px; stroke: rgb(230, 246, 241);"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M -4.397 1429.587 C 407.332 1490.593 740.964 1177.629 740.964 1177.629 C 769.113 1201.293 1136.57 1074.923 1367.85 739.702"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M -90.73 1168.146 C 313.289 1270.744 645.695 1006.004 645.695 1006.004 C 645.695 1006.004 997.209 953.058 1107.504 705.98"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M -81.798 759.633 C 212.161 1068.934 559.294 799.969 559.294 799.969 C 559.294 799.969 851.239 831.72 1028.587 598.338"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 42.389 476.529 C 237.886 794.215 512.492 582.908 512.492 582.908 C 512.492 582.908 788.818 635.372 977.76 421.725"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 153.446 280.537 C 227.902 517.554 472.336 419.781 472.336 419.781 C 472.336 419.781 788.818 476.529 1011.42 215.267"/>
+      </g>
+      <g>
+        <path style="paint-order: fill; fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 1059.076 1837.969 L 953.058 1532.106 C 953.058 1532.106 151.379 330.995 614.404 -83.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 944.85 1496.949 C 1084.171 1577.844 1589.904 1337.804 1691.386 1167.981 C 1745.257 1094.207 1754.258 980.367 1730.429 865.975 C 1708.267 759.585 1529.058 537.095 1529.058 537.095 C 1529.058 537.095 1357.06 953.058 1059.076 635.372 C 846.783 409.043 1111.901 242 1111.901 242 C 1111.901 242 696.635 64.119 617.372 -86.128"/>
+        <path style="fill: none; stroke-linecap: round; stroke-width: 109.372px; stroke: rgb(230, 246, 241);" d="M 617.372 -86.128 C 417.029 -20.309 88.952 250.743 -69.714 703.105 C -213.099 1111.901 -20.018 1747.273 393.065 1747.273 C 630.703 1747.273 891.651 1549.347 943 1494.343"/>
+      </g>
+    </g>
+  </g>
+</svg>
